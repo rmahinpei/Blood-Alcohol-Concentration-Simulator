@@ -1,6 +1,6 @@
 # Blood Alcohol Concentration (BAC) Simulator
 ## Purpose
-Around the world, alcohol misuse is widely recognized as a social issue, especially among young adults. As a way to encourage the population to learn more about the impacts of their drinking behaviours, a Python implementation of a deterministic compartmental model for the pathway of alcohol in the body was created. The compartmental pathway used in the Python code was proposed by Stephanie Lapadat and is shown below.
+Around the world, alcohol misuse is widely recognized as a social issue, especially among young adults. As a way to encourage the population to learn more about the impacts of their drinking behaviours, a Python implementation of a deterministic compartmental model for the pathway of alcohol in the blood was created. The compartmental pathway used in the Python code was proposed by Stephanie Lapadat and is shown below.
 
 <img src="Figure-1.png" width=50% height=50%>
 
